@@ -1,0 +1,28 @@
+Jan 29 12:01:01 web01 sshd[2001]: Failed password for invalid user admin from 185.220.101.45 port 61001
+Jan 29 12:01:02 web01 sshd[2001]: Failed password for invalid user admin from 185.220.101.45 port 61002
+Jan 29 12:01:03 web01 sshd[2001]: Failed password for invalid user admin from 185.220.101.45 port 61003
+Jan 29 12:01:04 web01 sshd[2001]: Failed password for invalid user admin from 185.220.101.45 port 61004
+
+Jan 29 12:02:10 web01 sshd[2010]: Failed password for invalid user root from 91.240.118.172 port 62011
+Jan 29 12:02:12 web01 sshd[2010]: Failed password for invalid user root from 91.240.118.172 port 62012
+Jan 29 12:02:14 web01 sshd[2010]: Failed password for invalid user root from 91.240.118.172 port 62013
+
+Jan 29 12:05:55 web01 sshd[2055]: Accepted password for root from 185.220.101.45 port 61010
+
+Firewall alert: outbound connection allowed to bad-malware-site.com
+Firewall alert: outbound connection allowed to bad-malware-site.com
+Firewall alert: outbound connection allowed to update-secure-login.net
+
+Proxy log: user accessed http://bad-malware-site.com/login.php
+Proxy log: user accessed http://bad-malware-site.com/payload.exe
+
+Downloaded file hash: d41d8cd98f00b204e9800998ecf8427e
+Downloaded file hash: d41d8cd98f00b204e9800998ecf8427e
+Downloaded file hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Email gateway alert: phishing email from attacker@evil-mail.net
+Email gateway alert: phishing email from attacker@evil-mail.net
+
+System log: scheduled backup completed
+System log: cron job executed successfully
+System log: system update installed
