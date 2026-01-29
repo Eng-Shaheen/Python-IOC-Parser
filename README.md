@@ -14,13 +14,11 @@ The extended version can scale to higher log volumes while maintaining accuracy,
 ---
 
 ## Directory Structure
-data/ # Sample or test logs
-data_extended/ # Enterprise-style extended logs
-notes/ # Analyst observations and notes
-screenshots/ # Key screenshots for documentation
-src/ # Python script: parse_iocs.py
-README.md
-
+- data/              # Sample or test logs
+- data_extended/     # Enterprise-style extended logs
+- notes/             # Analyst observations and notes
+- screenshots/       # Key screenshots for documentation
+- src/               # Python script: parse_iocs.py
 
 ---
 
